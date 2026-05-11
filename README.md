@@ -42,7 +42,7 @@ The backend architecture implements a multi-factor analysis engine to evaluate m
 ---
 
 ## Developed By: Team Code Catalyst
-* **Anuruddha Kumar Kahar** – Backend & Analytical Logic
+* **Anuruddha Kumar Kahar**
 * **Purohit Kamleshsingh Savalsingh**
 * **Aayush Singh**
 * **Shrimali Jainam Ravindrakumar**
